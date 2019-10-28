@@ -1,1 +1,6 @@
-ed25519_sig1ufyq7p87w7shmytlt5cm2ymkxr5lszrgz9zqs4fnhs4kepcrx63xnuaapr4lsw2tft0n64s8y6tgz97v2m96u6u4d9eksgphpggu6rq8c4eml
+{
+    "homepage": "https://12345",
+    "ticker": "FST",
+    "id": "ed25519_pk1afhcpw2tg7nr2m3wr4x8jaa4dv7d09gnv27kwfxpjyvukwxs8qdqwg85xp",
+    "pledge_address": "ed25519_pk15vz9yc5c3upgze8tg5kd7kkzxqgqfxk5a3kudp22hdg0l2za00sq2ufkk7"
+}
